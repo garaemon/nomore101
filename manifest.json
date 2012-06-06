@@ -1,0 +1,14 @@
+{
+  "name": "nomore101",
+  "version": "0.0.1",
+  "description": "no more 101",
+  "background": {
+    "page": "background.html"
+  },
+  "permissions": [
+     "*://*/*",
+    "tabs",
+    "background",
+    "webRequest"
+  ]
+}
